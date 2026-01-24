@@ -60,7 +60,7 @@ I've also worked with a lot of great people along the way, so I encourage you to
 ## Experience:
 - [_S 2026_] Software/Machine Learning Intern @ Lockheed Martin
 - [_X 2026_] Machine Learning Researcher @ US Space Force
-- [_W 2026_] Founding Engineer @ Cutis Intelligence
+- [_W 2026_] Chief Technology Officer @ Skinapse Labs
   <a href="https://cutisintelligence.com/" style="text-decoration:none; color:inherit;">↗︎</a>
 - [_F 2025_] AI & Robotic Autonomous Systems Engineering Intern @ US Coast Guard
   <a href="https://www.afcea.org/signal-media/new-us-coast-guard-peo-launches-internship-program"
