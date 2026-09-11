@@ -1,8 +1,8 @@
-# Hi there! <img src="https://raw.githubusercontent.com/Ishaan-Buddharaju/Ishaan-Buddharaju/main/wave.gif" width="30px" height="30px"/>
+# Yo! <img src="https://raw.githubusercontent.com/Ishaan-Buddharaju/Ishaan-Buddharaju/main/wave.gif" width="30px" height="30px"/>
 
-### My name is Ishaan Buddharaju and I'm a student at Purdue University. I'm double majoring in _Honors Computer Science & Artificial Intelligence_ with a minor in _Mathematics_. 
+### I'm Ishaan Buddharaju, a junior at Purdue University. I'm double majoring in _Honors Computer Science & Artificial Intelligence_ with a minor in _Mathematics_ and I like building. 
 
-My github has a range of projects across school, hackathons, and personal projects I've built along my journey to become a Machine Learning/Software Engineer. 
+My github has open source contributions, random personal projects, and cool hackathons that I've built along my journey to become an Engineer. 
 
 <span style="font-size:0.1em; color:#666;">
 I've also worked with a lot of great people along the way, so I encourage you to check them out!
