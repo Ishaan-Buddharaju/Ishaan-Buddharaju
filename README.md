@@ -7,7 +7,7 @@ My github has open source contributions, random personal projects, and cool hack
 I've also worked with a lot of great people along the way, so I encourage you to check them out!
 </span>
 
-## Hackathon Wins: 
+## Hackathons: 
 <ul>
   <li>
     <strong><a href="https://devpost.com/software/nautilink">2025 HackPrinceton</a></strong> | Princeton's Flagship Hackathon (600+ participants, 190+ projects)<br>
@@ -57,7 +57,7 @@ I've also worked with a lot of great people along the way, so I encourage you to
 
 
 ## Experience:
-- [_S 2026_] Software/Machine Learning Intern @ Lockheed Martin
+- [_S 2026_] Software Engineering Intern @ Lockheed Martin
 - [_X 2026_] Machine Learning Researcher @ US Space Force
 - [_W 2026_] Chief Technology Officer @ Skinapse Labs
   <a href="https://skinapse.ai/" style="text-decoration:none; color:inherit;">↗︎</a>
