@@ -1,4 +1,4 @@
-# Yo! <img src="https://raw.githubusercontent.com/Ishaan-Buddharaju/Ishaan-Buddharaju/main/wave.gif" width="30px" height="30px"/>
+# <img src="https://raw.githubusercontent.com/Ishaan-Buddharaju/Ishaan-Buddharaju/main/wave.gif" width="30px" height="30px"/ Welcome >
 
 ### I'm Ishaan Buddharaju, a junior at Purdue University. I'm double majoring in _Honors Computer Science & Artificial Intelligence_ with a minor in _Mathematics_ and I like building. 
 
