@@ -1,5 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Ishaan-Buddharaju/Ishaan-Buddharaju/main/wave.gif" width="30px" height="30px"/ Welcome >
-
+# Welcome twin! <img src="https://raw.githubusercontent.com/Ishaan-Buddharaju/Ishaan-Buddharaju/main/wave.gif" width="30px" height="30px"/>
 ### I'm Ishaan Buddharaju, a junior at Purdue University. I'm double majoring in _Honors Computer Science & Artificial Intelligence_ with a minor in _Mathematics_ and I like building. 
 
 My github has open source contributions, random personal projects, and cool hackathons that I've built along my journey to become an Engineer. 
